@@ -1,4 +1,4 @@
-# AR 3D Printer Tutorial
+# Augmented Reality 3D Printer Tutorial
 
 **Platform:** Mobile Augmented Reality (AR)  
 **Engine:** Unreal Engine  
